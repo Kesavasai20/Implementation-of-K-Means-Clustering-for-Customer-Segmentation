@@ -18,9 +18,9 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 5.Print the outputs and end the program
 ## Program:
-Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: K KESAVA SAI
-RegisterNumber: 212223230105 
+## Program to implement the K Means Clustering for Customer Segmentation.
+## Developed by: K KESAVA SAI
+## RegisterNumber: 212223230105 
 ```PY
 '''
 Program to implement the K Means Clustering for Customer Segmentation.
