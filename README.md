@@ -22,11 +22,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ## Developed by: K KESAVA SAI
 ## RegisterNumber: 212223230105 
 ```PY
-'''
-Program to implement the K Means Clustering for Customer Segmentation.
-Developed by : K MADHAVA REDDY
-RegisterNumber : 212223240064  
-'''
 import pandas as pd
 import matplotlib.pyplot as plt
 data=pd.read_csv(r'Mall_Customers.csv')
